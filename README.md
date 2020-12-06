@@ -45,9 +45,7 @@ This website utilize the navigation menu, where the user can scroll through mult
 **Week 1**
 <br />*__Udacity Starter code__*
 <br />linking js/app.js index.html and/style.css by using
-
 `<link rel="stylesheet" href="style1.css">` and
-
   `<!-- --><script src="main.js"></scrip>` Note to yourself Always use the href attribute to link your files or even projects.
   href attribute always comes in convenient, especially for linking all types of files with cool looking effects and beneficials.
   So if you need the feel to make 10 files 'like me' or more, you'll be able to do as plenty as you want. Always remmeber to keep your files and folder organize.
@@ -55,10 +53,7 @@ This website utilize the navigation menu, where the user can scroll through mult
 
 **Week 2**
 <br />*__Implementing Navigation Menu, Home Page, and Importing Images__*
-<br /> I followed the Udacity video to begin the Navbar on landpage
-At first It was just a basic navbar with 4 buttons and 4 images. I realized that just having 4 buttons and 4 images with noting intersting to see, is too boring.
-So I decided to not only look at Udacity videos for help, but also the resources it offers. I do alot of research on the internet, especially youtube.com and with the help
-from different sites that explains coding "like w3schools. the information was very crucially relevant. 
+<br /> I followed the Udacity video to begin the Navbar on landpageAt first It was just a basic navbar with 4 buttons and 4 images. I realized that just having 4 buttons and 4 images with noting intersting to see, is too boring.So I decided to not only look at Udacity videos for help, but also the resources it offers. I do alot of research on the internet, especially youtube.com and with the helpfrom different sites that explains coding "like w3schools. the information was very crucially relevant. 
 
 **Week 3**
 <br /> *__Implementing Smooth Scroll__*
@@ -70,40 +65,24 @@ you'll get a faster effect. Same goes for slow effect, just lower the number of 
 
 **Week 4**
 <br />*__Discovering different methods for improving the landing webpage__*
-<br />When I began to discover and learn let, cosnt, booleans, loops, events, functions, attributes like <a>, <button>,
-<script>, <style>, <link>, <input> link href. Swotting in CSS Properties like Margins and Paddings, background-color background-image background-position background-repeat
-background-size, etc. I was able to make different pages and add gifs instead of regular images.
-I even replace the images that was in the LandPage to gifs.
+<br />When I began to discover and learn let, cosnt, booleans, loops, events, functions, attributes like `<a>, <button>,<script>, <style>, <link>, <input>` link href. Swotting in CSS Properties like Margins and Paddings, background-color background-image background-position background-repeatbackground-size, etc. I was able to make different pages and add gifs instead of regular images.I even replace the images that was in the LandPage to gifs.
 
 **Week 5**
 <br />*__Daily Clock and ShoeShop Section__*
-<br />Traverse Media,Youtube.com, and w3schools.com were really good resources to help improve my project.
-The Clock and ShoeShop took quite some time, but with the help of the resources from Udacity, I was
-able to get the Clock Running and Shoe Images for my ShoeShop in a equal position. I had a lot of code bugs 
-that had to be debugged, especially the code for ShoeShop. Daily Clock didn't had a lot of bugs, but I was struggling of getting the night picture to stop repeating 
-whenever the time reaches 'Good Evening'. Always make sure when coding a clock, never leave no-repeat out of body { } in css file.  
+<br />Traverse Media,Youtube.com, and w3schools.com were really good resources to help improve my project.The Clock and ShoeShop took quite some time, but with the help of the resources from Udacity, I was able to get the Clock Running and Shoe Images for my ShoeShop in a equal position. I had a lot of code bugs s that had to be debugged, especially the code for ShoeShop. Daily Clock didn't had a lot of bugs, but I was struggling of getting the night picture to stop repeating whenever the time reaches 'Good Evening'. Always make sure when coding a clock, never leave no-repeat out of body { } in css file.  
 
 **Week 6**
 <br />*__Youtube, Linkedin and Udacity Section__*
-<br />With My Resources from Udacity and other relevant sites in order to make the buttons and links for Html And Css work. It was a struggle but eventually
- I was able to get the links working for my LandPage and it turn out to be a success. 
- 
- <section id = "Youtube"> 
- <h1><a href="https://youtu.be/_R-BD2DY46I"><button type="button" class="button button4">Vans HOW IT'S MADE</button></h1></a> 
+<br />With My Resources from Udacity and other relevant sites in order to make the buttons and links for Html And CSS work. It was a struggle but eventually I was able to get the links working for my LandPage and it turn out to be a success. 
 
-             </section>  
- 
- <section id = "Linkedin">
- <h1><a href="https://www.linkedin.com/feed/"><button type="button" class="button button5">Likedin</button></h1></a> 
 
-              </section>
- 
- <section id = "Udacity">
-            <h1><a href="https://www.udacity.com/"><button type= "button"class="button button6">Udacity The Best Coding School</button></h1></a>
-           
-        </section>
- Now you can watch the amazing video on how vans shoes are made, visit the wonderful site to find jobs from different companies and industries, 
- and even visit the best coding program in the world Udacity.com
+`<section id = "Youtube">`<br />`<h1><a href="https://youtu.be/_R-BD2DY46I"><button type="button" class="button button4">Vans HOW IT'S MADE</button></h1></a> </section>`       
+   
+   
+`<section id = "Linkedin">` <br />`<h1><a href="https://www.linkedin.com/feed/"><button type="button" class="button button5">Likedin</button></h1></a></section>`
+   
+   
+`<section id = "Udacity">` <br />`<h1><a href="https://www.udacity.com/"><button type= "button"class="button button6">Udacity The Best Coding School</button></h1></a></section>`
 
 **Week 7**
 <br />*__Blog and Weather Application Section__*
@@ -120,4 +99,3 @@ hot chocolate with marshmallows, put on your favorite christmas pajamas, and rel
 
 # Licesne 
 **GNU GENERAL PUBLIC LICENSE**
-
