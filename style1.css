@@ -137,7 +137,7 @@ section#README {
   font-size: 20px;
   padding: 10%;
   position: relative;
-  top: -0px;
+  bottom: -170px;
   right: -480px;
 }
 
@@ -145,15 +145,17 @@ section#README {
   background-color: blue;
   font-size: 30px;
   padding: 20px;
+  position: relative;
+  bottom: -170;
 }
 
 .button6 {
   background-color: lightblue;
   font-size: 20px;
-  padding: 5%;
+  padding: 3%;
   position: relative;
-  top: -100px;
-  right: -480px;
+  bottom: -170px;
+  right: -477px;
 }
 
 .button7 {
@@ -161,8 +163,8 @@ section#README {
   font-size: 20px;
   padding: 5%;
   position: relative;
-  top: -0px;
-  right: -480px;
+  bottom: -200px;
+  right: -477px;
 }
 
 .button8 {
@@ -174,13 +176,18 @@ section#README {
 }
 
 .button9 {
-  background-color: rgb(20, 74, 221);
+  background-color: darkred;
   font-size: 30px;
   padding: 10px;
+  position: relative;
+  top: -200px;
+  right: -480px;
 }
 
 .button10 {
   background-color: lightcoral;
   font-size: 30px;
   padding: 20px;
+  position: relative;
+  bottom: -100px;
 }
