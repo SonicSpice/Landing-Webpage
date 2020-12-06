@@ -1,4 +1,4 @@
-# Introduction:
+# Introduction
 **Landing Webpage**
 <br />This webpage is a simple execution of the navigation menu and multiple HTML links. The landing webpage was my favorite project from the udactity course. This project helped increase my knowdelege on Javascript, HTML, and CSS.  
 
@@ -30,6 +30,8 @@ This website utilize the navigation menu, where the user can scroll through mult
    - https://classroom.udacity.com/
 3. CSS Style Guide
    - https://www.w3schools.com/css/
+   - https://css-tricks.com/
+   - https://developer.mozilla.org/en-US/docs/Web/CSS/background-image
 4. HTML Style Guide
    - https://www.w3schools.com/html/
 5. JavaScript Style Guide
@@ -41,7 +43,7 @@ This website utilize the navigation menu, where the user can scroll through mult
 
 # History
 **Week 1**
-<br />**Udacity Starter code**
+<br />*__Udacity Starter code__*
 <br />linking js/app.js index.html and/style.css by using
 
 `<link rel="stylesheet" href="style1.css">` and
@@ -49,44 +51,46 @@ This website utilize the navigation menu, where the user can scroll through mult
   `<!-- --><script src="main.js"></scrip>`
 
 **Week 2**
-<br />**Implementing Navigation Menu, Home Page, and Importing Images**
+<br />*__Implementing Navigation Menu, Home Page, and Importing Images__*
 <br />I followed the Udacity video to begin the Navbar on landpage
 At first It was just a basic navbar with 4 buttons and 4 images
 
 **Week 3**
-<br /> **Implementing Smooth Scroll**
+<br /> *__Implementing Smooth Scroll__*
 <br />I wanted to expand my project. With Udacity's help of giving out helpful
 resources like developer.mozillia.org, CSS Stlye Guide, etc.
 Later, I began to go on w3schools, youtube.com, TraversyMedia.com and learn the smooth scroll effect
 with my js/app.js
 
 **Week 4**
-<br />**Discovering different methods for improving the landing webpage**
+<br />*__Discovering different methods for improving the landing webpage__*
 <br />When I began to discover and learn let, cosnt, booleans, loops, events, functions, attributes, link href
 Properties like Margins and Paddings, etc. I was able to make different pages add gifs instead of a regular image.
 I even replace the images that was in the LandPage to gifs.
 
 **Week 5**
-<br />**Daily Clock and ShoeShop Section**
+<br />*__Daily Clock and ShoeShop Section__*
 <br />Traverse Media,Youtube.com, and w3schools.com were really good resources to help improve my project.
 The Clock and ShoeShop took quite some time, but with the help of the resources from Udacity, I was
 able to get the Clock Running and Shoe Images for my ShoeShop in a equal position.
 
 **Week 6**
-<br />**Youtube and Linkedin Section**
+<br />*__Youtube and Linkedin Section__*
 <br />With My Resources to help make the buttons and links for Html And Css. Getting the
 Them to work for my LandPage was successful
 
 **Week 7**
-<br />**Blog and Weather Application Section**
+<br />*__Blog and Weather Application Section__*
 <br />This was the toughest part of the project, trying to get all 3 projects link together.
 In the end I was able to accomplish the task.
 
 **Week 8**
-<br />**Music Section and README.md**
+<br />*__Music Section and README.md__*
 <br/>Finally, getting the Christmas Music playing and linking my LandPage to the Readme was very succesful.
 This Project took quite a while to get everything working; debugging code, getting the gifs and images in the right postion and link with code.
 Linking all the pages together and and keeping files and folders organized; but in the end it was all worth it.
 I reall enjoyed making this Landing Page Project. Even though I had to put alot of hours in it, It was by far the most relevant Project that Udacity has assigned me too.
 
 # Licesne 
+**GNU GENERAL PUBLIC LICENSE**
+
