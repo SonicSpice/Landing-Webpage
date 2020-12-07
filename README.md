@@ -60,8 +60,8 @@ This website utilizes the navigation menu, where the user can scroll through mul
 <br />When I began to discover and learn Javascript Keywords.let, const, booleans, loops, events, functions. Knowledging Attributes like `<a>, <button>,<script>, <style>, <link>, <input>` link href. Swotting in CSS Properties like Margins and Paddings, background-color background-image background-position background-repeatbackground-size, etc. I was able to make different pages and add gifs instead of regular images.I even replace the images that was in the LandPage to gifs.
 
 **Week 5**
-<br />*__Daily Clock and ShoeShop Section__*
-<br />Traverse Media,Youtube.com, and w3schools.com were really good resources to help improve my project.The Clock and ShoeShop took quite some time, but with the help of the resources from Udacity, I was able to get the Clock Running and Shoe Images for my ShoeShop in a equal position. I had a lot of code bugs that had to be debugged, especially the code for ShoeShop. Daily Clock didn't have a lot of bugs, but I was struggling to get the night picture to stop repeating whenever the time reaches 'Good Evening'. Always make sure when coding a clock, never leave no-repeat out of body { } in css file.  
+<br />*__ShoeShop Section__*
+<br />Traverse Media,Youtube.com, and w3schools.com were really good resources to help improve my project.The Clock and ShoeShop took quite some time, but with the help of the resources from Udacity, I was able to get the Shoe Images for my ShoeShop in a equal position. I had a lot of code bugs that had to be debugged, especially the code for ShoeShop. Daily Clock didn't have a lot of bugs, but I was struggling to get the night picture to stop repeating whenever the time reaches 'Good Evening'. Always make sure when coding a clock, never leave no-repeat out of body { } in css file.  
 
 **Week 6**
 <br />*__Youtube, Linkedin and Udacity Section__*
@@ -79,9 +79,11 @@ This website utilizes the navigation menu, where the user can scroll through mul
 **Week 7**
 <br />*__Blog and Weather Application Section__*
 <br />This was the toughest part of the project, trying to get all 3 projects linked together. 
-In the end I was able to accomplish the task. LiveServer was able to get LandPage Linking with Weather Application, but unfortunately Blog wasn't able to work with
+In the end I was able to accomplish the task. LiveServer was able to get the LandingPage Linking with Weather Application, but unfortunately Blog wasn't able to work with
 LiveServer. It only works when I grab the file url that's in properties. So if anyone knows how to fix this issue, feel free to give it a try and let me know. 
-If you want, you can also try adding and linking your own projects into the landing webpage.
+If you want, you can also try adding and linking your own projects into the landing webpage. 
+
+By the way for the Weather Application itself, it works when you open it in the browser, but I recommend that you open it with Live Server. As it was explained above, I linked the Weather Application to the LandingPage through Live Server; it was only the Blog that wasn't able to work with Live Server. Also the results for the Weather should appear in  the console when you inspect the application. If it somehow lags 'which it shouldn't', just clear the console and refresh the page or close and open the application again.  
 
 **Week 8**
 <br />*__Music Section and README.md__*
