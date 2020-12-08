@@ -83,7 +83,7 @@ In the end I was able to accomplish the task. LiveServer was able to get the Lan
 LiveServer. It only works when I grab the file url that's in properties. So if anyone knows how to fix this issue, feel free to give it a try and let me know. 
 If you want, you can also try adding and linking your own projects into the landing webpage. 
 
-By the way for the Weather Application itself, it works when you open it in the browser, but I recommend that you open it with Live Server. As it was explained above, I linked the Weather Application to the LandingPage through Live Server; it was only the Blog that wasn't able to work with Live Server. Also the results for the Weather should appear in  the console when you inspect the application. If it somehow lags 'which it shouldn't', just clear the console and refresh the page or close and open the application again.  
+By the way for the Weather Application itself, it works when you open it in the browser, but I recommend that you open it with Live Server. As it was explained above, I linked the Weather Application to the LandingPage through Live Server; it was only the Blog that wasn't able to work with Live Server. Also the results for the Weather should appear in  the console when you inspect the application. If it somehow lags (which it shouldn't), just clear the console and refresh the page or close and open the application again.  
 
 **Week 8**
 <br />*__Music Section and README.md__*
