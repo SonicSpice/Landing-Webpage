@@ -1,15 +1,17 @@
 //  Option 2 - jQuery Smooth Scroll
-$(".navbar a").on("click", function (e) {
-  if (this.hash !== "") {
-    e.preventDefault();
+const links = document.querySelectorAll(".page-header ul a");
 
-    const hash = this.hash;
+for (const link of links) {
+  link.addEventListener("click", clickHandler);
+}
 
-    $("html, body").animate(
-      {
-        scrollTop: $(hash).offset().top,
-      },
-      800
-    );
-  }
-});
+function clickHandler(e) {
+  e.preventDefault();
+  const href = this.getAttribute("href");
+  const offsetTop = document.querySelector(href).offsetTop;
+
+  scroll({
+    top: offsetTop,
+    behavior: "smooth",
+  });
+}
