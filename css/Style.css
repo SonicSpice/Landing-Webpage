@@ -139,34 +139,9 @@ section#ShoeShop {
     100% #000000;
 }
 
-section#Youtube {
-  background: url("../images/demoYoutubeLogoGlow.gif") no-repeat scroll 0 0 /
-    100% 100% #000000;
-}
-
 section#Linkedin {
   background: url("../images/demoLinkedinGlow.gif") no-repeat scroll 0 0 / 100%
     100% #000000;
-}
-
-section#Udacity {
-  background: url("../images/demoUdacityLogo.gif") no-repeat scroll 0 0 / 100%
-    100% #000000;
-}
-
-section#Blog {
-  background: url("../images/demoTimeVortex.gif") no-repeat scroll 0 0 / 100%
-    100% #000000;
-}
-
-section#WeatherApp {
-  background: url("../images/demoWeatherChanging.gif") no-repeat scroll 0 0 /
-    100% 100% #000000;
-}
-
-section#MerryChristmas {
-  background: url("../images/demoChristmasCoffee.gif") no-repeat scroll 0 0 /
-    100% 100% #000000;
 }
 
 section#README {
