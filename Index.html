@@ -1,69 +1,52 @@
-<DOCYPE html>
-    <html lang="en">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Smooth Scroll Landing Page</title>
+    <link rel="stylesheet" href="css/Main.css" />
+  </head>
 
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Smooth Scroll Landing Page</title>
-        <link rel="stylesheet" href="css/styles.css">
-    </head>
+  <body>
+    <nav id="navbar" class="hideNav"></nav>
 
-    <body>
-        <body>
-            <div>
-                <nav id="navbar"></nav>
-                <section id="Home">
-                    <h1>Welcome To My Site</h1>
-                    <p>Lorem ipsu dolor sit amrt consectetur adipisicing elit. Error quos iste
-                        exercitationem, quidem provident dolorum?</p>
-                </section>
+    <button id="hambuger-menu-btn">
+      <svg viewBox="0 0 100 80">
+        <rect width="100" height="20"></rect>
+        <rect y="30" width="100" height="20"></rect>
+        <rect y="60" width="100" height="20"></rect>
+      </svg>
+    </button>
 
-                <section id="ShoeShop">
-                    <h1><a href="html/ShoeShop.html"><button type="button" class="button button2">SHOESHOP</button></h1>
-                    </a>
-                </section>
+    <section id="Home">
+      <div id="Home-content">
+        <h1>Project 2</h1>
+        <p>Shawn's Landing Page</p>
+      </div>
+    </section>
 
-                <section id="Youtube">
-                    <h1><a href="https://youtu.be/_R-BD2DY46I"><button type="button" class="button button3">Vans HOW
-                                IT'S MADE</button></h1></a>
-                </section>
+    <section id="ShoeShop">
+      <a href="html/ShoeShop.html" id="ShoeShop-content">
+        <button type="button" class="button button2">SHOESHOP</button>
+      </a>
+    </section>
 
-                <section id="Linkedin">
-                    <h1><a href="https://www.linkedin.com/feed/"><button type="button"
-                                class="button button4">Linkedin</button></h1></a>
-                </section>
+    <section id="README">
+      <a
+        id="README-content"
+        href="https://github.com/SonicSpice/Landing-Webpage/edit/master/README.md"
+        ><button type="button" class="button button9">ABOUT</button></a
+      >
+    </section>
 
-                <section id="Udacity">
-                    <h1><a href="https://www.udacity.com/"><button type="button" class="button button5">Udacity The Best
-                                Coding School</button></h1></a>
-                </section>
+    <section id="Linkedin">
+      <a href="https://www.linkedin.com/feed/" id="Linkedin-content"
+        ><button type="button" class="button button4">Likedin</button></a
+      >
+    </section>
+  </body>
 
-                <section id="Blog">
-                    <h1><a href="file:///C:/Users/Lad/Documents/Project1/Index.html"><button type="button"
-                                class="button button6">LET'S LOOK AT THE FIRST PROJECT</button></h1></a>
-                </section>
-
-                <section id="WeatherApp">
-                    <h1><a href="http://127.0.0.1:5501/website/index.html"><button type="button"
-                                class="button button7">Let's See How The Weather Is! Project3</button></h1></a>
-                </section>
-
-                <section id="MerryChristmas">
-                    <h1><a href="html/Music.html"><button type="button" class="button button8">Merry Christmas</button>
-                    </h1></a>
-                </section>
-
-                <section id="README">
-                    <h1><a href="https://github.com/SonicSpice/Landing-Webpage/edit/master/README.md"><button
-                                type="button" class="button button9">ABOUT</button></h1></a>
-                </section>
-            </div>
-        </body>
-        <!-- smooth scroll -->
-        <script
-            src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0.0/dist/smooth-scroll.polyfills.min.js"></script>
-        <!-- dev code -->
-        <script src="js/app.js"></script>
-
-    </html>
+  <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0.0/dist/smooth-scroll.polyfills.min.js"></script>
+  <script src="js/app.js"></script>
+</html>
